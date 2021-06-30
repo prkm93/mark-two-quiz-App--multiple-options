@@ -1,0 +1,11 @@
+{
+  "name": "mark-two-quiz-app--multiple-options-",
+  "version": "1.0.0",
+  "description": "quiz app (multiple options)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pradeep",
+  "license": "ISC"
+}
